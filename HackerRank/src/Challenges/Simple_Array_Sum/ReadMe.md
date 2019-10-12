@@ -23,9 +23,8 @@ The second line contains ***n*** space-separated integers representing the array
 
 ### Constraints
 
-```java
-0 < n,ar[i] <= 1000
-```
+![constraint](http://latex.codecogs.com/svg.latex?\large 0 < n,ar[i]\leq 1000)
+
 
 ### Output Format
 
